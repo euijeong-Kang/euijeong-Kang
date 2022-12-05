@@ -16,6 +16,9 @@
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/>
 <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=MicrosoftSQLServer&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=MicrosoftAzure&logoColor=white"/>
+<img src="https://img.shields.io/badge/OracleCloud-F80000?style=flat&logo=Oracle&logoColor=white"/>
 Here are some ideas to get you started:
