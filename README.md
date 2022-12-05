@@ -1,9 +1,10 @@
-👋 Hi, there! i am server developer using java. 💡
-I love OOP & strong type lagauge and I use Spring Frameworks.
+👋 Hi, there! i am server developer using java.<br/>
+I love OOP & strong type langauge and I use Spring Frameworks.
 
 I hope to develop Fun Cool Sexy service. ⚡️
 
-<img src="https://img.shields.io/badge/ownershipengineer@naver.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>  <a href="https://blcan.tistory.com"> <img src="https://img.shields.io/badge/blcan.tistory.com-000000?style=flat&logo=Tistory&logoColor=white"/></a>
+## ☀️  About Me
+<a href="https://furry-stork-6b0.notion.site/Ownership-Engineer-9997e53fec8c475ebd4ee5d8f125a7ce"> <img src="https://img.shields.io/badge/OwnershipEngineer-000000?style=flat&logo=Notion&logoColor=white"/></a> <a href="https://blcan.tistory.com"> <img src="https://img.shields.io/badge/blcan.tistory.com-000000?style=flat&logo=Tistory&logoColor=white"/></a>  <img src="https://img.shields.io/badge/ownershipengineer@naver.com-EA4335?style=flat&logo=Gmail&logoColor=white"/> 
 
 ## 🔭  Stacks
 
