@@ -16,4 +16,6 @@
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=MicrosoftSQLServer&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/>
 Here are some ideas to get you started:
