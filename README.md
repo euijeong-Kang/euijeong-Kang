@@ -8,7 +8,7 @@ I hope to develop Fun Cool Sexy service. ⚡️
 
 ## 🔭  Stacks
 
-💪 Main Language & FramWork
+💪 Main Platform & Language
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/>
 
