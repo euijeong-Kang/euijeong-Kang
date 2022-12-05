@@ -4,7 +4,7 @@ I love OOP & strong type langauge and I use Spring Frameworks.
 I hope to develop Fun Cool Sexy service. ⚡️
 
 ## ☀️  About Me
-<a href="https://furry-stork-6b0.notion.site/Ownership-Engineer-9997e53fec8c475ebd4ee5d8f125a7ce"> <img src="https://img.shields.io/badge/OwnershipEngineer-000000?style=flat&logo=Notion&logoColor=white"/></a> <a href="https://blcan.tistory.com"> <img src="https://img.shields.io/badge/blcan.tistory.com-000000?style=flat&logo=Tistory&logoColor=white"/></a>  <img src="https://img.shields.io/badge/ownershipengineer@naver.com-EA4335?style=flat&logo=Gmail&logoColor=white"/> 
+<a href="https://furry-stork-6b0.notion.site/Ownership-Engineer-9997e53fec8c475ebd4ee5d8f125a7ce"> <img src="https://img.shields.io/badge/OwnershipEngineer-000000?style=flat&logo=Notion&logoColor=white"/></a> <a href="https://blcan.tistory.com"> <img src="https://img.shields.io/badge/blcan.tistory.com-000000?style=flat&logo=Tistory&logoColor=white"/></a>
 
 👇 how about read my essay <br/> <a href="https://furry-stork-6b0.notion.site/IPP-be4ab2b708ab4d239e3d10eaa25b55bc"> <img src="https://img.shields.io/badge/IPP체험 에세이-512BD4?style=flat&logo=Notion&logoColor=white"/></a>
 
