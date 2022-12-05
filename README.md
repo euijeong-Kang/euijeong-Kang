@@ -1,20 +1,11 @@
-### Hi there 👋
+👋 Hi, there! i am server developer using java. 💡
+I love OOP & strong type lagauge and I use Spring Frameworks.
 
-<!--
-**euijeong-Kang/euijeong-Kang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I hope to develop Fun Cool Sexy service. ⚡️
 
+<img src="https://img.shields.io/badge/ownershipengineer@naver.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>  <a href="https://blcan.tistory.com"> <img src="https://img.shields.io/badge/blcan.tistory.com-000000?style=flat&logo=Tistory&logoColor=white"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-🛠️  Stacks
+## 🔭  Stacks
 
 💪 Main Language & FramWork
 
@@ -31,7 +22,3 @@
 💡Sub & Toy Project
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white"/>
-
-
-🧐
-Here are some ideas to get you started:
