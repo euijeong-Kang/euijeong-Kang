@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=130&section=header&text=Eui%20Jeong%20Kang&fontSize=50&fontAlignY=26)<br/>
-👋 Hi, there! i am server developer using java.<br/> ☕
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=130&section=header&text=Eui%20Jeong%20Kang&fontSize=50&fontAlignY=26)<br/>
+👋 Hi, there! i am server developer using java. ☕<br/> 
 I love OOP & strong type langauge and I use Spring Frameworks. 🍀
 
 I eager to develop Fun Cool Sexy service. ⚡️
